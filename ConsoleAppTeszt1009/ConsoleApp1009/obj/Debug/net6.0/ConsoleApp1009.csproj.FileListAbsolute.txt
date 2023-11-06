@@ -1,0 +1,43 @@
+D:\ConsoleAppTeszt1009\ConsoleApp1009\bin\Debug\net6.0\ConsoleApp1009.exe
+D:\ConsoleAppTeszt1009\ConsoleApp1009\bin\Debug\net6.0\ConsoleApp1009.deps.json
+D:\ConsoleAppTeszt1009\ConsoleApp1009\bin\Debug\net6.0\ConsoleApp1009.runtimeconfig.json
+D:\ConsoleAppTeszt1009\ConsoleApp1009\bin\Debug\net6.0\ConsoleApp1009.dll
+D:\ConsoleAppTeszt1009\ConsoleApp1009\bin\Debug\net6.0\ConsoleApp1009.pdb
+D:\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.csproj.AssemblyReference.cache
+D:\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.AssemblyInfoInputs.cache
+D:\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.AssemblyInfo.cs
+D:\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.csproj.CoreCompileInputs.cache
+D:\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.dll
+D:\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\refint\ConsoleApp1009.dll
+D:\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.pdb
+D:\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.genruntimeconfig.cache
+D:\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ref\ConsoleApp1009.dll
+C:\Users\Milán\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\bin\Debug\net6.0\ConsoleApp1009.exe
+C:\Users\Milán\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\bin\Debug\net6.0\ConsoleApp1009.deps.json
+C:\Users\Milán\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\bin\Debug\net6.0\ConsoleApp1009.runtimeconfig.json
+C:\Users\Milán\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\bin\Debug\net6.0\ConsoleApp1009.dll
+C:\Users\Milán\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\bin\Debug\net6.0\ConsoleApp1009.pdb
+C:\Users\Milán\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milán\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.AssemblyInfoInputs.cache
+C:\Users\Milán\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.AssemblyInfo.cs
+C:\Users\Milán\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.csproj.CoreCompileInputs.cache
+C:\Users\Milán\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.dll
+C:\Users\Milán\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\refint\ConsoleApp1009.dll
+C:\Users\Milán\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.pdb
+C:\Users\Milán\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.genruntimeconfig.cache
+C:\Users\Milán\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ref\ConsoleApp1009.dll
+C:\Users\Lujcza\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lujcza\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.AssemblyInfoInputs.cache
+C:\Users\Lujcza\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.AssemblyInfo.cs
+C:\Users\Lujcza\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.csproj.CoreCompileInputs.cache
+C:\Users\Lujcza\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.dll
+C:\Users\Lujcza\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\refint\ConsoleApp1009.dll
+C:\Users\Lujcza\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.pdb
+C:\Users\Lujcza\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\bin\Debug\net6.0\ConsoleApp1009.exe
+C:\Users\Lujcza\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\bin\Debug\net6.0\ConsoleApp1009.deps.json
+C:\Users\Lujcza\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\bin\Debug\net6.0\ConsoleApp1009.runtimeconfig.json
+C:\Users\Lujcza\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\bin\Debug\net6.0\ConsoleApp1009.dll
+C:\Users\Lujcza\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\bin\Debug\net6.0\ConsoleApp1009.pdb
+C:\Users\Lujcza\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ConsoleApp1009.genruntimeconfig.cache
+C:\Users\Lujcza\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\kód\szoftverteszteles\ConsoleAppTeszt1009\ConsoleApp1009\obj\Debug\net6.0\ref\ConsoleApp1009.dll
